@@ -35,6 +35,6 @@ For reproducing the results you can download the pretrain model from [here.](htt
 <img src="imgs/Fig1.png" width="800px"/>
 
 ### References
-https://github.com/NVlabs/SPADE
-https://github.com/eriklindernoren/PyTorch-GAN
+https://github.com/NVlabs/SPADE |
+https://github.com/eriklindernoren/PyTorch-GAN |
 https://github.com/vacancy/Synchronized-BatchNorm-PyTorch

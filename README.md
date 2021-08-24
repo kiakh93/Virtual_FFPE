@@ -27,8 +27,9 @@ We develop a deep learning framework to convert images of frozen samples into FF
 python training.py --n_epochs [numberof epochs] --dataset_dir [directory of the dataset] --batch_size [batch size] --lr [learning rate] 
 ```
 -For testing, please use this:
+```bash
 python test.py --dataset_dir [directory of the dataset] --batch_size [batch size] 
-
+```
 For reproducing the results you can download the pretrain model from [here.](https://uofi.box.com/s/9g6epqfmhf55ewembqio6t09imsd3uwq)
 
 ### Results

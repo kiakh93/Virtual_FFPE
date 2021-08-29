@@ -10,7 +10,7 @@
       primaryClass={eess.IV}
 }
 ```
-<img src="imgs/FS2PS.tiff" width="800px"/>
+<img src="imgs/FF2FFPE.png" width="800px"/>
 
 We develop a deep learning framework to convert images of frozen samples into FFPE, which we termed virtual-FFPE. To better transform the information, we modified the architecture of the generator and we used a multi-scale dicriminator. Our results demonstrate that the virtual FFPE are of high quality and increase inter-observer agreement, as calculated by Fleiss’ kappa, for detecting cancerous regions and assigning a grade to clear cell RCC within the sample.
 

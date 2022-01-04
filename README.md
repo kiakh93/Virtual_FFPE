@@ -1,13 +1,11 @@
 # A generative adversarial approach to facilitate archival-quality histopathologic diagnoses from frozen tissue sections
-### [Paper](https://arxiv.org/abs/2107.11786v2)
+### [Paper](https://www.nature.com/articles/s41374-021-00718-y)
 ```
-@misc{falahkheirkhah2021generative,
-      title={A generative adversarial approach to facilitate archival-quality histopathologic diagnoses from frozen tissue sections}, 
-      author={Kianoush Falahkheirkhah and Tao Guo and Michael Hwang and Pheroze Tamboli and Christopher G Wood and Jose A Karam and Kanishka Sircar and Rohit Bhargava},
-      year={2021},
-      eprint={2108.10550},
-      archivePrefix={arXiv},
-      primaryClass={eess.IV}
+@techreport{falahkheirkhah2021generative,
+  title={A generative adversarial approach to facilitate archival-quality histopathologic diagnoses from frozen tissue sections},
+  author={Falahkheirkhah, Kianoush and Guo, Tao and Hwang, Michael and Tamboli, Pheroze and Wood, Christopher G and Karam, Jose A and Sircar, Kanishka and Bhargava, Rohit},
+  year={2021},
+  institution={Nature Publishing Group}
 }
 ```
 <img src="imgs/FF2FFPE.png" width="800px"/>
